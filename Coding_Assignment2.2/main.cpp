@@ -1,3 +1,7 @@
+//CODING ASSIGNMENT 2.2
+//FINDING DUPLICATES IN AN ARRAY USING SET
+//Find all duplicates in an array in O(n) runtime.
+
 #include<iostream>
 #include<vector>
 #include<set>
